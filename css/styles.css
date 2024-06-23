@@ -1,0 +1,178 @@
+
+.button {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    font-size: 12px;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: #fff;
+    background-color:darkorange;
+}
+
+.nav {
+    font-weight: 600;
+    font-size: 12px;
+    letter-spacing: 0.1em;
+    color:dimgray
+}  
+
+a {
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+}
+
+.tel {
+    font-weight: 600;
+    font-size: 12px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: dimgray;
+}
+
+.text {
+    font-weight: 600;
+    font-size: 11px;
+    text-transform: uppercase;
+    color: rgba(157, 164, 189, 0.6);
+}
+
+.header {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 72px;
+    letter-spacing: 0.05em;
+    color: dimgray;
+}
+
+.text1 {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px; 
+    line-height: 1.66667;
+    letter-spacing: 0.02em;
+    color: #9da4bd;
+}
+
+.header2 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    font-size: 11px;
+    text-transform: uppercase;
+    color: #303030;
+}
+
+.textb {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 42px;
+    letter-spacing: 0.05em;
+    color: #303030;
+}
+
+.smalltext {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 26px; 
+    line-height: 1.85714;
+    letter-spacing: 0.02em;
+    color: #555;
+}
+
+ul.hr {
+    margin: 0;
+    padding: 4px; 
+}
+ul.hr li {
+    display: inline; 
+    margin-right: 5px;
+    padding: 3px; 
+}
+
+.smalltext1 {
+    font-weight: 600;
+    font-size: 11px;
+    text-transform: uppercase;
+    color: rgba(157, 164, 189, 0.6);
+}
+
+.header3 {
+    font-weight: 700;
+    font-size: 42px;
+    letter-spacing: 0.05em;
+    color:gray;
+    font-family: "Raleway", sans-serif;
+}
+
+
+.li {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px; 
+    line-height: 1.66667;
+    letter-spacing: 0.02em;
+    color: #9da4bd;
+
+}
+.text1 {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 26px; 
+    line-height: 1.85714;
+    letter-spacing: 0.02em;
+    color: #555;
+}
+
+.header4 {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 42px;
+    letter-spacing: 0.05em;
+    color: #303030;
+}
+
+.header5 {
+    font-weight: 400;
+    font-size: 18px;
+    letter-spacing: 0.02em;
+    color: #303030;
+    font-family: "Open Sans", sans-serif;
+}
+
+.pa {
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 0.02em;
+    color: #ff6c00;
+}
+
+.textp {
+    font-weight: 600;
+    font-size: 11px;
+    text-transform: uppercase;
+    color: #303030;
+}
+
+.book {
+    font-weight: 700;
+    font-size: 42px;
+    letter-spacing: 0.05em;
+    color:#303030
+}
+
+.hours {
+    font-weight: 600;
+    font-size: 11px;
+    text-transform: uppercase;
+    color: #9da4bd;
+}
+
+.hours1 {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px; 
+    line-height: 1.66667;
+    letter-spacing: 0.02em;
+    color: #9da4bd;
+}
